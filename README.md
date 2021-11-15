@@ -9,4 +9,4 @@ Java IO classes are used to write to and read from the connection.
 <br/>
 Example of the server and clients running:
 ![image](https://user-images.githubusercontent.com/60248071/141733299-b0942233-e94b-4845-93dc-0e1cf9fa303b.png)
-<br/> As seen above the server returns a random haiku for every client connection
+<br/> As seen above the server returns a random haiku for every client connection.
