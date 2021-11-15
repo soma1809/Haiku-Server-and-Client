@@ -11,7 +11,7 @@ Example of the server and clients running:
 ![image](https://user-images.githubusercontent.com/60248071/141733299-b0942233-e94b-4845-93dc-0e1cf9fa303b.png)
 <br/> As seen above the server returns a random haiku for every client connection.<br/> 
 # Credits/Sources :<br/>
-Source Code: Operating System Concepts (10th edition), Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
+Source Code: Operating System Concepts (10th edition), Abraham Silberschatz, Peter Baer Galvin, Greg Gagne <br/>
 Haikus: 
 https://poemanalysis.com/best-poems/haikus/<br>
 https://www.readpoetry.com/10-vivid-haikus-to-leave-you-breathless/
