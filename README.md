@@ -2,6 +2,9 @@
 This is the Java Code for a Haiku Server and Client. <br/>
 A server listens on port 5575 on the localhost. <br/>
 Whenever a client connects to the server (using port 5575), the server returns a haiku (choosing randomly from 10 haikus) to the client and closes the connection.
+ServerSocket class is used to create the socket on the localhost (and required port). <br/>
+Socket class is used to connect to and accept connections from the address. <br/>
+Java IO classes are used to write to and read from the connection.
 <br/>
 <br/>
 Example of the server and clients running:
